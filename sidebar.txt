@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bog:home|Door43 (bog)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bog|d43-bog repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bog/archive/master.zip|d43-bog.zip]]
+
+**Recent Changes**
+{{changes>ns = bog}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bog|Ethnologue data]]
+
